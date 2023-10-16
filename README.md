@@ -1,2 +1,2 @@
-# .github
-CoBaLD Annotation Project
+# CoBaLD Annotation Project
+
