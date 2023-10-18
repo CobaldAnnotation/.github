@@ -16,7 +16,7 @@ The semantic hierarchy of the hyperonym classes is available at the Compreno Sem
 
 # Annotation of the relations between words
 
-The semantic links between words in Compreno are expressed through so called deep (semantic) slots (DS) - semantic roles, which correspond to actant valencies (Agent, Object,
+The semantic links between words in Compreno are expressed through so called deep (semantic) slots (DSs) - semantic roles, which correspond to actant valencies (Agent, Object,
 Experiencer, Addressee, etc.), adjuncts (Locative, Distance, Time, Condition, Concession, and so on), characteristics (evaluation, colour, weight, speed, price, form, or size), specifications, parentheticals, and others. It gives the opportunity to define all semantic relations for each word, both actant and circumstantial, which provides full markup of all possible semantic dependencies.
 However, the description seems too detailed for most purposes as it suggests more than 330 SSs.
 
