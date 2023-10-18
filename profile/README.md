@@ -44,9 +44,11 @@ Currently, 2 corpora annotated according to the given standard are available:
 
 (1) Russian news corpus: it includes more than 400 000 tokens and has the morphosyntax of the 'basic' UD model.
 
+
 The corpus page is ССЫЛКА. Here a more detailed description of the corpus and the dataset itself are available.
 
 (2) English news corpus: it includes more than 150 000 tokens and has the morphosyntax of the Enhanced UD model.
+
 
 The corpus page is ССЫЛКА. Here a more detailed description of the corpus and the dataset itself are available.
 
