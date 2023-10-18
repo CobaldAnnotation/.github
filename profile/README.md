@@ -24,9 +24,11 @@ Therefore, we decided to reduce the number of categories as well.
 For example, full Compreno markup suggests different roles for different characteristic dependencies, such as form, taste, sound, appearance, importance, genuineness, and so on - more than 50
 characteristics in total. In the generalized variant, all such characteristics correspond to one characteristical slot. Or, full model contains several Instrument, Locative and Time slots, which differ by the SCs each slot can include:
 
+```
 'He came [yesterday]: Time, 
 He came [when I was absent]: Time_Situation, 
 [After a pint], we went home: Time_Entity'.
+```
 
 In the generalized version, all these roles correspond to only one Time slot.
 
