@@ -46,6 +46,14 @@ Currently, 2 corpora annotated according to the given standard are available:
 
 (1) Russian news corpus: it includes more than 400 000 tokens and has the morphosyntax of the 'basic' UD model.
 
+
+The corpus page is [here](https://github.com/CobaldAnnotation/CobaldRus), where a more detailed description of the corpus and the dataset itself are available.
+
+(2) English news corpus: it includes more than 150 000 tokens and has the morphosyntax of the Enhanced UD model.
+
+
+The corpus page is [here](https://github.com/CobaldAnnotation/CobaldEng), where a more detailed description of the corpus and the dataset itself are available.
+
 # CoBaLD references
 
 M Petrova, A Ivoylova, I Bayuk, D Dyachkova, and M Michurina. 2023. The CoBaLD Annotation Project: the Creation and Application of the full
@@ -55,12 +63,4 @@ Linguistics and Intellectual Technologies «Dialog»
 A Ivoylova, D Dyachkova, M Petrova, and M Michurina. 2023. The problem of linguistic markup conversion:
 the transformation of the compreno markup into the ud format. // International Conference on Computational
 Linguistics and Intellectual Technologies «Dialog»
-
-
-The corpus page is [here](https://github.com/CobaldAnnotation/CobaldRus), where a more detailed description of the corpus and the dataset itself are available.
-
-(2) English news corpus: it includes more than 150 000 tokens and has the morphosyntax of the Enhanced UD model.
-
-
-The corpus page is [here](https://github.com/CobaldAnnotation/CobaldEng), where a more detailed description of the corpus and the dataset itself are available.
 
