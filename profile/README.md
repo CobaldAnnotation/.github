@@ -12,7 +12,7 @@ In Compreno, word meanings are presented in the form of a semantical hierarchy -
 
 Total number of the SCs in Compreno is more than 200,000, which seems too much for the machine learning on the corpora of the volume we currently have. Therefore, we decided to reduce the number of classes and use not the full hierarchy but the hierarchy of the hyperonym classes. Namely, we point out not the SCs like GIRL, TEACHER, or RIVAL, but the SC HUMAN instead of them; not the classes TO_RUN, TO_SWIM, TO_JUMP, but the SC MOTION instead, and so on. The hyperonym hierarchy includes about 650 SCs.
 
-The semantic hierarchy of the hyperonym classes is available at the Compreno Semantics Github2 ССЫЛКА.
+The semantic hierarchy of the hyperonym classes is available at the [Compreno Semantics Github](https://github.com/compreno-semantics).
 
 # Annotation of the relations between words
 
@@ -34,8 +34,7 @@ In the generalized version, all these roles correspond to only one Time slot.
 
 As a result, the number of the semantic roles used in the markup was reduced to 143 slots.
 
-The list and the description of the semantic roles are available on ССЫЛКА.
-
+The list and the description of the semantic roles are available [here](https://github.com/compreno-semantics/semantic-slots).
 
 These simplified SCs and DSs are used in the final version of the CoBaLD format.
 
@@ -60,7 +59,29 @@ M Petrova, A Ivoylova, I Bayuk, D Dyachkova, and M Michurina. 2023. The CoBaLD A
 Morpho-Syntactic and Semantic Markup Standard. // International Conference on Computational
 Linguistics and Intellectual Technologies «Dialog»
 
+To cite this paper:
+
+```
+@inproceedings{petrova2023cobald,
+  title={The CoBaLD Annotation Project: the Creation and Application of the full Morpho-Syntactic and Semantic Markup Standard},
+  author={Petrova, Maria and Ivoylova, Alexandra and Bayuk, Ilya and Dyachkova, Darya and Michurina, Mariia},
+  booktitle={Proceedings of the International Conference “Dialogue},
+  volume={2023},
+  year={2023}
+}
+```
+
 A Ivoylova, D Dyachkova, M Petrova, and M Michurina. 2023. The problem of linguistic markup conversion:
 the transformation of the compreno markup into the ud format. // International Conference on Computational
 Linguistics and Intellectual Technologies «Dialog»
 
+To cite this paper:
+
+```
+@inproceedings{ivoylova2023problem,
+  title={The problem of linguistic markup conversion: the transformation of the Compreno markup into the UD format},
+  author={Ivoylova, Alexandra and Dyachkova, Darya and Petrova, Maria and Michurina, Mariia},
+  booktitle={International Conference on Computational Linguistics and Intellectual Technologies {\guillemotleft}Dialog},
+  year={2023}
+}
+```
