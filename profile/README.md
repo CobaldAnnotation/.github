@@ -8,7 +8,7 @@ CobaLD Annotation includes morphological, syntactic and semantic markup. The mor
 
 # Annotation of word meanings
 
-In Compreno, word meanings are presented in the form of a semantical hierarchy - a tree of a thesaurus type. Its nodes correspond to semantic classes (SCs) -  semantic fields denoting words meanings. The SCs are universal for all languages. Each SC is filled with contents in concrete languages (English, Russian, German, Japanese, and some others) - lexical classes (LCs). 
+In Compreno, word meanings are presented in the form of a semantical hierarchy - a tree of a thesaurus type. Its nodes correspond to semantic classes (SCs) -  semantic fields denoting words meanings. The SCs are universal for all languages. Each SC is filled with contents in definite languages (English, Russian, German, Japanese, and some others) - lexical classes (LCs). 
 
 Total number of the SCs in Compreno is more than 200,000, which seems too much for the machine learning on the corpora of the volume we currently have. Therefore, we decided to reduce the number of classes and use not the full hierarchy but the hierarchy of the hyperonym classes. Namely, we point out not the SCs like GIRL, TEACHER, or RIVAL, but the SC HUMAN instead of them; not the classes TO_RUN, TO_SWIM, TO_JUMP, but the SC MOTION instead, and so on. The hyperonym hierarchy includes about 650 SCs.
 
